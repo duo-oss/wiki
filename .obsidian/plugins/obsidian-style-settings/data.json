@@ -1,0 +1,10 @@
+{
+  "blue-topaz-theme@@style-options-for-calendar-plugin": "style-options-for-calendar-plugin-style-one",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-autumn-topaz",
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
+  "blue-topaz-theme@@clutter-free-headings": true,
+  "blue-topaz-theme@@bt-status-off": false,
+  "blue-topaz-theme@@non-border-bottom-header": true,
+  "blue-topaz-theme@@plain-file-title": false,
+  "blue-topaz-theme@@text-indentation-two-em": false
+}

@@ -1,0 +1,8 @@
+.cm-inline-code, .cm-s-obsidian span.cm-inline-code{
+    color:#DD4A68
+}
+.markdown-preview-section code {
+    /* color:rgb(240, 223, 205) */
+    /* color:#8070f7 */
+    color:#DD4A68
+}
