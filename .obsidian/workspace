@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a8d19797d86b80cb",
+        "id": "bc943b80452ac671",
         "type": "leaf",
+        "dimension": 48.26021180030257,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "date/2022-01-12.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "c87e64067ccb07fc",
+        "type": "leaf",
+        "dimension": 51.73978819969742,
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "专栏",
+                "query": "tag:#想了解",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -48,12 +54,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "d772f6b66d99e686",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 301
   },
   "right": {
     "id": "94c2705e271ccd94",
@@ -69,9 +83,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "date/2022-01-12.md"
-              }
+              "state": {}
             }
           },
           {
@@ -109,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "4aade1f8172d14e7",
@@ -123,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "date/2022-01-12.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "date/2022-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,19 +159,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236
+    "width": 196,
+    "collapsed": true
   },
-  "active": "a8d19797d86b80cb",
+  "active": "bc943b80452ac671",
   "lastOpenFiles": [
+    "date/2022-01-30.md",
+    "IT/js模块化.md",
+    "date/2022-01-29.md",
+    "进度/程序员山月博客.md",
+    "date/2022-01-28.md",
+    "date/2022-01-27.md",
+    "date/2022-01-26.md",
     "date/2022-01-12.md",
-    "date/2022-01-16.md",
     "date/2022-01-13.md",
-    "知识/随笔.md",
-    "sshKey.md",
-    "README.md",
-    "收集箱/B站up主.md",
-    "收集箱/学习效率视频.md",
-    "收集箱/不错的专栏.md",
-    "知识/英语单词.md"
+    "date/2022-01-14.md"
   ]
 }
