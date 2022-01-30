@@ -6,9 +6,7 @@
 [API Types](https://github1s.com/obsidianmd/obsidian-api/blob/c148c24b30dc68d9835820b4169b95d3a038a0f6/obsidian.d.ts)
 **警告：** Obsidian API 仍处于早期 alpha 阶段，随时可能更改！
 
->defrfr
->夫人夫人
->夫人夫人
+>
 ### [](https://github.com/obsidianmd/obsidian-api/blob/HEAD/README.md#documentation)文档
 
 所有 API 文档都位于该文件中`obsidian.d.ts`。这将包括类型、==属性==、方法和解释所有内容的注释。

@@ -8,8 +8,12 @@
         "type": "leaf",
         "dimension": 48.26021180030257,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "date/2022-01-30.md",
+            "mode": "source",
+            "source": true
+          }
         }
       },
       {
@@ -17,8 +21,12 @@
         "type": "leaf",
         "dimension": 51.73978819969742,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "IT/js模块化.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -83,7 +91,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "date/2022-01-30.md"
+              }
             }
           },
           {
@@ -134,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "date/2022-01-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "date/2022-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

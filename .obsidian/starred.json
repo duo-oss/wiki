@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "search",
+      "title": "英语",
+      "query": "英语"
+    },
+    {
+      "type": "search",
+      "title": "tag:#想了解",
+      "query": "tag:#想了解"
+    }
+  ]
+}

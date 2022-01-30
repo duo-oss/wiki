@@ -6,5 +6,7 @@
   "blue-topaz-theme@@bt-status-off": false,
   "blue-topaz-theme@@non-border-bottom-header": true,
   "blue-topaz-theme@@plain-file-title": false,
-  "blue-topaz-theme@@text-indentation-two-em": false
+  "blue-topaz-theme@@text-indentation-two-em": false,
+  "blue-topaz-theme@@rainbow-lines": true,
+  "blue-topaz-theme@@rainbow-ordered-list": true
 }

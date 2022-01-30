@@ -153,7 +153,7 @@ ITWANGYANG https://space.bilibili.com/364798139 **前端搬运工
 
 奇乐编程学院 https://space.bilibili.com/372313671 **10分钟 入门系列
 
-deeplearning_ai https://space.bilibili.com/1065788740 **ai 嗯博士的 ai课
+deeplearning_ai https://space.bilibili.com/1065788740 **吴恩达 嗯博士的 ai课
 
 筱筱知晓 https://space.bilibili.com/391385119 **精品培训课 **搬运工
 
@@ -194,3 +194,12 @@ JZStudio https://space.bilibili.com/630047590 **计算机网络 **操作系统 *
 大米剪了两头吃 https://space.bilibili.com/204004983 **教程搬运
 
 崩溃大喵 https://space.bilibili.com/19177697  [微软分享  [躺平
+
+
+
+
+
+
+
+[CSAPP  视频讲解计算原理][https://space.bilibili.com/354767108/video]
+![](csapp.png)
