@@ -1,25 +1,21 @@
 
 
 
-日常短视频 ：
 
-技术蛋老师
+[Ele实验室](https://space.bilibili.com/481434238)    [程序员 科普大佬]
 
-前端哈默
-
-鱼皮
-
-长视频：
 
 [https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM?tab=qb1sze](https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM?tab=qb1sze)
 
-谭玉刚 https://space.bilibili.com/41036636/video  [计算机原理  [CPU  [操作系统  [图解
+[谭玉刚]( https://space.bilibili.com/41036636/video)    [计算机原理  [CPU  [操作系统  [图解]
 
-技术胖 https://space.bilibili.com/165659472
 
-前端小野森森 https://space.bilibili.com/378372969
 
-阿崔cxr https://space.bilibili.com/175301983/video  [前端  [源码  [vue3
+## 技术胖 https://space.bilibili.com/165659472
+
+## 前端小野森森 https://space.bilibili.com/378372969
+
+## 阿崔cxr https://space.bilibili.com/175301983/video  [前端  [源码  [vue3
 
 一斤代码 https://space.bilibili.com/330392743
 
@@ -101,7 +97,7 @@ JS老毕 https://space.bilibili.com/455848380  [前端算法
 
 开课吧 https://space.bilibili.com/476967789  [开课吧
 
-花果山-大圣 https://space.bilibili.com/26995758  [前端 老师
+## 花果山-大圣 https://space.bilibili.com/26995758  [前端 老师
 
 晓舟报告 https://space.bilibili.com/478692215  [程序员 前端
 
@@ -119,7 +115,7 @@ magiciiiii https://space.bilibili.com/87334855  [程序员
 
 吴师兄学算法 https://space.bilibili.com/28610170  [算法
 
-正月点灯笼 正月点灯笼  [讲算法
+## 正月点灯笼 正月点灯笼  [讲算法
 
 Jack-Cui https://space.bilibili.com/331507846  [AI  [算法
 
@@ -155,9 +151,9 @@ ITWANGYANG https://space.bilibili.com/364798139 **前端搬运工
 
 deeplearning_ai https://space.bilibili.com/1065788740 **吴恩达 嗯博士的 ai课
 
-筱筱知晓 https://space.bilibili.com/391385119 **精品培训课 **搬运工
+## 筱筱知晓 https://space.bilibili.com/391385119 **精品培训课 **搬运工
 
-遇见狂神说 https://space.bilibili.com/95256449 **狂神
+## 遇见狂神说 https://space.bilibili.com/95256449 **狂神
 
 动画讲编程 https://space.bilibili.com/526619673 **动画 **算法
 
@@ -169,7 +165,7 @@ deeplearning_ai https://space.bilibili.com/1065788740 **吴恩达 嗯博士的 a
 
 Kali与编程 https://space.bilibili.com/348646636 **白帽子
 
-**魔术师卡颂 https://space.bilibili.com/453618117 **有点意思
+## 魔术师卡颂 https://space.bilibili.com/453618117
 
 旅梦开发团 https://space.bilibili.com/43651653 **前端 **面试
 
@@ -181,19 +177,19 @@ JZStudio https://space.bilibili.com/630047590 **计算机网络 **操作系统 *
 
 ——————————————————————————————————————————————————————————————————————————————
 
-资源分享者 https://space.bilibili.com/103635414 **教程搬运
+资源分享者 https://space.bilibili.com/103635414 **教程搬运 [全栈]
 
 我真的超不喜欢学习 https://space.bilibili.com/2058367546 **教程搬运
 
-编程不良人 https://space.bilibili.com/352224540 **教程搬运
+编程不良人 https://space.bilibili.com/352224540 **教程搬运 [全栈]
 
-科粒KL https://space.bilibili.com/502658951 **教程搬运 wenter
+科粒KL https://space.bilibili.com/502658951 **教程搬运 wenter [前端]
 
 狂奔的男尸 https://space.bilibili.com/10074432 **教程搬运 **英语
 
 大米剪了两头吃 https://space.bilibili.com/204004983 **教程搬运
 
-崩溃大喵 https://space.bilibili.com/19177697  [微软分享  [躺平
+崩溃大喵 https://space.bilibili.com/19177697  [微软分享  [躺平 微软外包 
 
 
 
