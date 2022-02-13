@@ -7,5 +7,11 @@
   "foldHeading": true,
   "foldIndent": true,
   "spellcheck": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
