@@ -1,0 +1,362 @@
+{
+  "workspaces": {
+    "关注的媒体": {
+      "main": {
+        "id": "5764872ebb9f205e",
+        "type": "split",
+        "children": [
+          {
+            "id": "09d505e907798157",
+            "type": "leaf",
+            "dimension": 34.31734317343174,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作台/关注媒体录入.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "67670a9ed31e44a8",
+            "type": "leaf",
+            "dimension": 65.68265682656826,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作台/公众号列表.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "de3e06cb2d743a5c",
+        "type": "split",
+        "children": [
+          {
+            "id": "304e22ca1107895b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e0aacb2cda90e92a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e4c3f88d3a3e8d33",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "github",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d772f6b66d99e686",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 235,
+        "collapsed": true
+      },
+      "right": {
+        "id": "94c2705e271ccd94",
+        "type": "split",
+        "children": [
+          {
+            "id": "5d3e51603815ed58",
+            "type": "tabs",
+            "dimension": 61.38996138996139,
+            "children": [
+              {
+                "id": "3695ebccdb685fc6",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "工作台/关注媒体录入.md"
+                  }
+                }
+              },
+              {
+                "id": "95af95cc8a7dc296",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "00aa995ee447ffb0",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6a8c912a6983e459",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "dfb765b47360725d",
+                "type": "leaf",
+                "state": {
+                  "type": "Saved Queries View",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "4aade1f8172d14e7",
+            "type": "tabs",
+            "dimension": 38.610038610038615,
+            "children": [
+              {
+                "id": "811f24bca757efec",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "工作台/关注媒体录入.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "76f103a5fdd431b8",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "工作台/关注媒体录入.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 276,
+        "collapsed": true
+      },
+      "active": "09d505e907798157"
+    },
+    "datart-github": {
+      "main": {
+        "id": "5764872ebb9f205e",
+        "type": "split",
+        "children": [
+          {
+            "id": "efa1143da78ab3ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作台/datart-issues.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca39bc7a8e707799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作台/datart-pr.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "de3e06cb2d743a5c",
+        "type": "split",
+        "children": [
+          {
+            "id": "304e22ca1107895b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e0aacb2cda90e92a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e4c3f88d3a3e8d33",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "github",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d772f6b66d99e686",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 235
+      },
+      "right": {
+        "id": "94c2705e271ccd94",
+        "type": "split",
+        "children": [
+          {
+            "id": "5d3e51603815ed58",
+            "type": "tabs",
+            "dimension": 61.38996138996139,
+            "children": [
+              {
+                "id": "3695ebccdb685fc6",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "工作台/datart-issues.md"
+                  }
+                }
+              },
+              {
+                "id": "95af95cc8a7dc296",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "00aa995ee447ffb0",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6a8c912a6983e459",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "dfb765b47360725d",
+                "type": "leaf",
+                "state": {
+                  "type": "Saved Queries View",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "4aade1f8172d14e7",
+            "type": "tabs",
+            "dimension": 38.610038610038615,
+            "children": [
+              {
+                "id": "811f24bca757efec",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "工作台/datart-issues.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "76f103a5fdd431b8",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "工作台/datart-issues.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 276,
+        "collapsed": true
+      },
+      "active": "efa1143da78ab3ec"
+    }
+  },
+  "active": "datart-github"
+}
