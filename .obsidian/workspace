@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "date/2022-03-03.md",
+            "file": "IT/拉取pr.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "github",
+                "query": "\"pull pr",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -57,11 +57,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 108
+    "width": 261
   },
   "right": {
     "id": "94c2705e271ccd94",
@@ -78,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "date/2022-03-03.md"
+                "file": "IT/拉取pr.md"
               }
             }
           },
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "date/2022-03-03.md",
+                "file": "IT/拉取pr.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "date/2022-03-03.md",
+                "file": "IT/拉取pr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,15 +164,15 @@
   },
   "active": "39646d808bff05d1",
   "lastOpenFiles": [
+    "IT/拉取pr.md",
+    "工作台/datart-issues.md",
+    "IT/Git.md",
+    "date/2022-03-04.md",
     "date/2022-03-03.md",
     "知识/easyv的调研文档.md",
-    "工作台/datart-issues.md",
     "date/2022-02-28.md",
     "date/2022-02-27.md",
     "date/2022-02-26.md",
-    "date/2022-02-25.md",
-    "date/2022-02-24.md",
-    "date/2022-02-21.md",
-    "date/2022-02-22.md"
+    "date/2022-02-25.md"
   ]
 }
