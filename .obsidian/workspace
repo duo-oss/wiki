@@ -10,8 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "IT/拉取pr.md",
-            "mode": "source",
-            "source": false
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,8 +117,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "4aade1f8172d14e7",
@@ -159,20 +157,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 199
   },
   "active": "39646d808bff05d1",
   "lastOpenFiles": [
     "IT/拉取pr.md",
+    "date/2022-03-04.md",
+    "temp/日记模板.md",
     "工作台/datart-issues.md",
     "IT/Git.md",
-    "date/2022-03-04.md",
     "date/2022-03-03.md",
     "知识/easyv的调研文档.md",
     "date/2022-02-28.md",
     "date/2022-02-27.md",
-    "date/2022-02-26.md",
-    "date/2022-02-25.md"
+    "date/2022-02-26.md"
   ]
 }

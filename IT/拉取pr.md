@@ -3,7 +3,6 @@ pull pr
 
 git fetch 仓库地址 pull/pr号/head:分支名
 
-
 	git fetch https://gitee.com/re_tech/datart.git pull/17/head:pr_17
 
 
@@ -13,7 +12,9 @@ git fetch 仓库地址 pull/pr号/head:分支名
 
 	git fetch upstream pull/17/head:pr_17 
 
+
 其中 pr_17 是自己定义的 叫 ssqqw 也是可以的
+
 
 	git fetch reDatart pull/258/head:pr_258
 
