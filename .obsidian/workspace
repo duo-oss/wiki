@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/拉取pr.md",
-            "mode": "source",
+            "file": "date/2022-03-01.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"pull pr",
+                "query": "每日一",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/拉取pr.md"
+                "file": "date/2022-03-01.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/拉取pr.md",
+                "file": "date/2022-03-01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/拉取pr.md",
+                "file": "date/2022-03-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,15 +162,15 @@
   },
   "active": "39646d808bff05d1",
   "lastOpenFiles": [
-    "IT/拉取pr.md",
-    "IT/Git.md",
-    "date/2022-03-06.md",
-    "IT/video标签.md",
-    "进度/学习记录.md",
-    "IT/babel.md",
+    "date/2022-03-01.md",
+    "date/2022-03-02.md",
     "date/2022-03-03.md",
     "date/2022-03-04.md",
-    "temp/日记模板.md",
-    "工作台/datart-issues.md"
+    "date/2022-03-05.md",
+    "date/2022-03-06.md",
+    "date/2022-03-07.md",
+    "IT/国际化方案.md",
+    "date/2022-03-08.md",
+    "date/2022-02-07.md"
   ]
 }
