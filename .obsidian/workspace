@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "date/2022-04-03.md",
+            "file": "date/2022-04-04.md",
             "mode": "source",
             "source": true
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "date/2022-04-03.md"
+                "file": "date/2022-04-04.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "date/2022-04-03.md",
+                "file": "date/2022-04-04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "date/2022-04-03.md",
+                "file": "date/2022-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,15 +162,15 @@
   },
   "active": "39646d808bff05d1",
   "lastOpenFiles": [
-    "date/2022-04-03.md",
+    "date/2022-04-04.md",
     "mac开发环境.md",
+    "date/2022-04-03.md",
     "工具/mac 小技巧.md",
     "date/2022-02-09.md",
     "V8垃圾回收js.md",
     "IT/historyApiFallback.md",
     "date/2022-04-01.md",
     "date/2022-03-30.md",
-    "date/2022-03-27.md",
-    "date/2022-03-23.md"
+    "date/2022-03-27.md"
   ]
 }
