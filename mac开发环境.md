@@ -5,7 +5,13 @@ node
 git
 itrem2
 zsh
-vscode
+### vscode
+#### 插件
+- 
+#### 配置
+
+	
+	
 sourcetree
 clashx
 navicat premium
