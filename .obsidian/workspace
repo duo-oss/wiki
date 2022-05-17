@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/TS/ts笔记.md",
+            "file": "date/2022-05-13.md",
             "mode": "source",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/TS/ts笔记.md"
+                "file": "date/2022-05-13.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/TS/ts笔记.md",
+                "file": "date/2022-05-13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/TS/ts笔记.md",
+                "file": "date/2022-05-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +162,7 @@
   },
   "active": "39646d808bff05d1",
   "lastOpenFiles": [
+    "date/2022-05-13.md",
     "IT/TS/ts笔记.md",
     "IT/TS/ts命名空间.md",
     "date/2022-01-21.md",
@@ -170,7 +171,6 @@
     "README.md",
     "收集箱/B站up主.md",
     "mac开发环境.md",
-    "date/2022-04-04.md",
-    "date/2022-04-03.md"
+    "date/2022-04-04.md"
   ]
 }
