@@ -1,4 +1,4 @@
-pull pr
+pull pr 
 当别人提交了代码  你需要拉取下来 看的时候 可以定向的 拉取 别人的pr
 
 git fetch 仓库地址 pull/pr号/head:分支名
@@ -20,5 +20,4 @@ git fetch 仓库地址 pull/pr号/head:分支名
 
 
 #git
-
 
