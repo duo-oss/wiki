@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "date/2022-05-13.md",
-            "mode": "source",
-            "source": true
+            "file": "viz设计.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261
+    "width": 261,
+    "collapsed": true
   },
   "right": {
     "id": "94c2705e271ccd94",
@@ -78,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "date/2022-05-13.md"
+                "file": "viz设计.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "date/2022-05-13.md",
+                "file": "viz设计.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "date/2022-05-13.md",
+                "file": "viz设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +163,8 @@
   },
   "active": "39646d808bff05d1",
   "lastOpenFiles": [
+    "viz设计.md",
+    "date/2022-06-27.md",
     "date/2022-05-13.md",
     "IT/TS/ts笔记.md",
     "IT/TS/ts命名空间.md",
@@ -169,8 +172,6 @@
     "date/2022-04-07.md",
     "关注的B站Up.md",
     "README.md",
-    "收集箱/B站up主.md",
-    "mac开发环境.md",
-    "date/2022-04-04.md"
+    "收集箱/B站up主.md"
   ]
 }
