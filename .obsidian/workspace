@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "viz设计.md",
-            "mode": "preview",
+            "file": "date/2022-06-27.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -71,7 +71,7 @@
       {
         "id": "5d3e51603815ed58",
         "type": "tabs",
-        "dimension": 61.38996138996139,
+        "dimension": 44.28969359331476,
         "children": [
           {
             "id": "3695ebccdb685fc6",
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "viz设计.md"
+                "file": "date/2022-06-27.md"
               }
             }
           },
@@ -103,27 +103,36 @@
             }
           },
           {
-            "id": "6a8c912a6983e459",
+            "id": "dfb765b47360725d",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "empty",
               "state": {}
             }
           },
           {
-            "id": "dfb765b47360725d",
+            "id": "ce2ee8ae6e66bbab",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
               "state": {}
             }
+          },
+          {
+            "id": "e62e713ef860f40b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "4aade1f8172d14e7",
         "type": "tabs",
-        "dimension": 38.610038610038615,
+        "dimension": 55.710306406685234,
         "children": [
           {
             "id": "811f24bca757efec",
@@ -131,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "viz设计.md",
+                "file": "date/2022-06-27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "viz设计.md",
+                "file": "date/2022-06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,20 +167,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 199,
-    "collapsed": true
+    "width": 431
   },
   "active": "39646d808bff05d1",
   "lastOpenFiles": [
-    "viz设计.md",
     "date/2022-06-27.md",
+    "date/2022-07-12.md",
+    "viz设计.md",
     "date/2022-05-13.md",
     "IT/TS/ts笔记.md",
     "IT/TS/ts命名空间.md",
     "date/2022-01-21.md",
     "date/2022-04-07.md",
     "关注的B站Up.md",
-    "README.md",
-    "收集箱/B站up主.md"
+    "README.md"
   ]
 }
