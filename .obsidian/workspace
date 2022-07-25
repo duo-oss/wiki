@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "07db71a4c503335a",
+        "id": "80aed52a44d2a0b7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/自我介绍.md",
+            "file": "面试/面试记录.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261
+    "width": 316
   },
   "right": {
     "id": "94c2705e271ccd94",
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/自我介绍.md"
+                "file": "面试/面试记录.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/自我介绍.md",
+                "file": "面试/面试记录.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/自我介绍.md",
+                "file": "面试/面试记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,19 +174,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287
+    "width": 348,
+    "collapsed": true
   },
-  "active": "07db71a4c503335a",
+  "active": "80aed52a44d2a0b7",
   "lastOpenFiles": [
-    "面试/自我介绍.md",
+    "date/2022-07-25.md",
     "面试/面试记录.md",
-    "华为外包.md",
-    "人大金仓.md",
-    "联通数科.md",
-    "智慧足迹.md",
-    "至臻云.md",
-    "shopee.md",
-    "金锐同创.md",
-    "Bano.md"
+    "面试/八股面试.md",
+    "date/2022-07-24.md",
+    "smartX.md",
+    "jump/super-jump/practice?questionId=23286.md",
+    "date/2022-07-23.md",
+    "天翼云.md",
+    "面试/自我介绍.md",
+    "百度智能云 react.md"
   ]
 }
