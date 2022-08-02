@@ -6,10 +6,24 @@
       {
         "id": "80aed52a44d2a0b7",
         "type": "leaf",
+        "dimension": 78.32422586520947,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "date/2022-07-29.md",
+            "file": "面试/面试记录.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5d0e9e3d6ae5e994",
+        "type": "leaf",
+        "dimension": 21.67577413479053,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "smartX.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316
+    "width": 172
   },
   "right": {
     "id": "94c2705e271ccd94",
@@ -78,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "date/2022-07-29.md"
+                "file": "面试/面试记录.md"
               }
             }
           },
@@ -147,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "date/2022-07-29.md",
+                "file": "面试/面试记录.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "date/2022-07-29.md",
+                "file": "面试/面试记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,15 +193,15 @@
   },
   "active": "80aed52a44d2a0b7",
   "lastOpenFiles": [
+    "date/2022-08-02.md",
     "面试/面试记录.md",
+    "date/2022-08-01.md",
+    "date/2022-07-31.md",
+    "date/2022-07-29.md",
+    "smartX.md",
     "面试/八股面试.md",
     "date/2022-07-27.md",
     "面试/自我介绍.md",
-    "date/2022-07-26.md",
-    "date/2022-07-25.md",
-    "date/2022-07-24.md",
-    "smartX.md",
-    "jump/super-jump/practice?questionId=23286.md",
-    "date/2022-07-23.md"
+    "date/2022-07-26.md"
   ]
 }

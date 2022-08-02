@@ -114,3 +114,18 @@ Linux把文件的权限划分为读（r）、写（w）、执行（x）三种，
 2 k个一组翻转[链表](/jump/super-jump/word?word=%E9%93%BE%E8%A1%A8) [https://leetcode-cn.com/problems/reverse-nodes-in-k-group/](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
 
 27 反问 我有什么不足 ？
+
+---
+
+
+– 标配的[五险一金](https://www.zhihu.com/search?q=%E4%BA%94%E9%99%A9%E4%B8%80%E9%87%91&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22article%22%2C%22sourceId%22%3A%22463688235%22%7D)和极具竞争力的薪水，持续的期权机制；
+
+– 各种水果零食、咖啡牛奶无限量免费供应，任君挑选；
+
+– 每年十二天带薪年假，旅游工作两不误；
+
+– 补充医疗保险，为你健康保驾护航；
+
+– 弹性工作时间，为结果负责；
+
+– 年度旅游&定期团建活动。
