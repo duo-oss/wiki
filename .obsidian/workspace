@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/面试记录.md",
+            "file": "date/2022-08-05.md",
             "mode": "source",
             "source": false
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/面试记录.md"
+                "file": "date/2022-08-05.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/面试记录.md",
+                "file": "date/2022-08-05.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/面试记录.md",
+                "file": "date/2022-08-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,15 +193,15 @@
   },
   "active": "80aed52a44d2a0b7",
   "lastOpenFiles": [
-    "date/2022-08-04.md",
+    "面试/八股面试.md",
+    "date/2022-08-05.md",
     "面试/面试记录.md",
+    "date/2022-08-04.md",
     "date/2022-08-03.md",
     "date/2022-08-02.md",
     "date/2022-08-01.md",
     "date/2022-07-31.md",
     "date/2022-07-29.md",
-    "smartX.md",
-    "面试/八股面试.md",
-    "date/2022-07-27.md"
+    "smartX.md"
   ]
 }
